@@ -1,46 +1,30 @@
 {
-<<<<<<< HEAD
   "name": "confusion",
   "version": "1.0.0",
-  "description": "This is a website for Ristorante Con Fusion",
-  "main": "index.html",
+  "description": "\"assignment\"",
+  "main": "aboutus.html",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.12.9"
+  },
+  "devDependencies": {},
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "lite-server": "^2.3.0"
-  },
-  "dependencies": {
-    "bootstrap": "^4.4.1",
-    "jquery": "^3.4.1",
-    "popper.js": "^1.12.9"
-=======
-  "name": "git-first",
-  "version": "1.0.0",
-  "main": "index.js",
-  "dependencies": {},
-  "scripts": {
-    "start":"npm run lite",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "lite":"lite-server"
-  },
-  "author": "AjithReddy100",
-  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AjithReddy100/git-first.git"
   },
+  "author": "\"AjithReddy100\"",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/AjithReddy100/git-first/issues"
   },
   "homepage": "https://github.com/AjithReddy100/git-first#readme",
-  "description": "",
-  "devDependencies": {
+  "devdependencies": {
     "lite-server": "^2.5.4"
->>>>>>> 54bd384c6a024180597f468b0b4f6f6b9a1560a6
   }
 }

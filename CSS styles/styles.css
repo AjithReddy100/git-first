@@ -1,15 +1,16 @@
 .row-header{
     margin:0px auto;
     padding:0px auto;
+    border-bottom:1px ridge;
 }
 .row-content{
     margin:0px auto;
-    padding:50px 0px 50px 0px;
+    padding:0px 0px 50px 0px;
     border-bottom:2px ridge;
     min-height:400px;
 }
 .footer{
-    background-color:darkmagenta;
+    background-color:rgb(0,0,160);
     margin:0px auto;
     padding:20px 0px 20px 0px;
     color: aliceblue;
@@ -17,11 +18,18 @@
 .jumbotron{
     padding:70px 30px 70px 30px;
     margin:0px auto;
-    background:rgb(175, 5, 175);
+    background-color:rgb(0, 5, 175);
     color:floralwhite;
 }
 .address{
     font-size:80%;
     margin:0px;
     columns: #0f0f0f;
+}
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+.navbar-dark{
+    background-color:yellowgreen;
 }
