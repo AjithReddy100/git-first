@@ -1,0 +1,75 @@
+.row-header{
+    margin:0px auto;
+    padding:0px auto;
+    border-bottom:1px ridge;
+}
+.row-content{
+    margin:0px auto;
+    padding:0px 0px 50px 0px;
+    border-bottom:1px ridge;
+    min-height:400px;
+}
+.footer{
+    background-color:rgb(6,6,110,0.884);
+    margin:0px auto;
+    padding:20px 0px 20px 0px;
+    color: aliceblue;
+}
+.jumbotron{
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background-color:rgba(1, 1, 66, 0.884);
+    color:rgb(241, 226, 194);
+    margin-top: 8px;
+}
+.address{
+    font-size:80%;
+    margin:0px;
+    columns: #0f0f0f;
+}
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+.navbar-dark{
+    background-color:rgba(8, 3, 80, 0.63);
+}
+.feedback-font{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+.cdn{
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background-color:rgba(1, 1, 66, 0.884);
+    color:floralwhite;
+}
+.fact{
+    border-left:2px ridge ;
+    border-bottom:2px ridge;
+    border-right:2px ridge;
+
+}
+.tab-content{
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding:20px;
+}
+.carousel{
+    background:rgba(13, 13, 66, 0.884);
+}
+.carousel-item{
+    height: 300px;
+}
+.carousel-item img{
+    position:absolute;
+    top:0;
+    left:0;
+    min-height:300px;
+}
+#carouselButton{
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+}
